@@ -7,3 +7,7 @@ git clone https://github.com/adrianoasantunes/dio-desafio-git-repo.git
 git status
 
 git add .
+
+git commit -m "msg"
+
+git push origin main

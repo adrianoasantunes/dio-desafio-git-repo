@@ -1,0 +1,83 @@
+SCRUM
+Gestão de projeto agil (Entrega mais rápida para cliente usufruir mais rapido da entrega, tomada de decisão e mudança rápida)
+
+Pilares - Transparencia, adaptação, inspeção (conversar mais, escrever menos)
+
+PO - Product Owner: representa área de negócios, é uma pessoa que define as funcionalidades e prioriza ref. ao software baseado ao feedback dos usuários e stack holders. Capta e transpassa aos desenvolvedores o que é preciso fazer. Prioriza o Backlog.
+
+SM - Scrum Master: Garante que o time esteja seguindo o scrum e esteja empenhado. Não gerencia, faz o meio de campo da comunicação entre "PO" e "Time Dev". Leva o time ara frente, auxilia.
+
+Time Dev - Time de Desenolvimento (3 a 9 pessoas) - desenvolve, testa, cria, desenha, ou seja, tudo para que o software seja entregue funcionando.
+
+Cerimônias SCRUM
+
+Time Box - Tempo máximo definido para fazer uma cerimônia ou todo desenolvimento em uma sprint.
+
+Sprint - Corrida, arrancada. Principal evento do SCRUM, durante sua ocorrencia, é ocorrida no máximo em 30 dias e seu tempo é definido pelo próprio time. PO, SM, Time Dev.
+
+ Planejamento da Sprint participa PO, SM, Time Dev.
+ 	4h o que fazer?
+ 	- PO o que é preciso entregar, funcionalidades, por quê?
+ 	4h como fazer?
+ 	- Time Dev: quebra as atividades, entende o que é preciso ser feito e como fazer para entregar o que o PO deseja.
+ 		Time pode utilizar ferramentas e técnicas diversas:
+ 			Planing Poker (Define estimativa de tempo para execução de cada tarefa)
+
+ Etapas da Sprint (Time Box 30 dias): Planejamento, DailyMeeting (Reuniões Diárias), Review (Revisão), Retrospectiva.
+
+ DailyMeeting (Time box: 15 min) participa PO, SM, Time Dev. Feita de pé *StandUp Meeting
+ 	Time Dev - O que fez no dia anterior? o que será feito no dia? há algum impedimento?
+ 
+ Kanban - (States) To Do | Doing  |Do
+
+Revisão da Sprint (etapa final) - onde apresenta para o PO tudo que foi desenvolvido, para que quando entrar em produção não seja uma surpresa. em uma time box de 30 dias, pode durar 8 horas. 
+
+Retrospectiva da Sprint - Elucidar erros, acertos, onde melhorar.
+
+PO - Product Owner e SM - Scrum Master (Responsabilidades): 
+	PO - Product Owner: Visualiza o valor que será gerado para cliente/empresa, se objetivos foram atingidos, quais atividades desenvolver e visualizar como está o andamento da sprint e se necessário organizar uma próxima sprint. Importante que tenha visão sobre o destino da sprint(*Product Backlog - Funcionalidades do Produto)
+
+ 	SM - Scrum Master: responsável por disceminar a cultura scrum para o time, ensinar o time as cerimônias do scrum, auxiliar time a gerir agilidade.
+
+Refine - Time saber o que será desenvolvido e fazer questionamento ao PO, é permitido participação de stake holders, antecipa a planing
+
+Planing - 1º etapa PO pega os itens mais refinados do backlog
+         2º  Sem a presença do PO, somente Time Dev p/ gerar o que entra ou não no sprint
+
+Release Planning - Liberação ou lançamento do software (*não é obrigatório ter uma release no final de uma sprint).
+	* Multiplas Squads - varios times agrupados, fazendo tarefas distintas que no final serão agrupadas
+	* de Projeto - precisa quebrar entrega em várias histórias e sprint. PO precisa de senioridade, pois deve quebrar no maximo que puder para entregas, uma demanda grande e pode levar várias sprints para entrega.
+
+Merge (Junção dos códigos de cada sprint acumulada)
+
+Analisando Escopo e Prioridades:
+    Definição do escopo: o que será desenvolvido? Benefícios a serem atingidos e foco no objetivo antecipadamente ao que se entregará;
+
+    Product Backlog composto por artefatos:
+        Épico: sem muito detalhamento, direciona os caminhos
+        Estória: um épico se divide em várias estórias, descrevendo o que se deve fazer
+        (Epic -> User Story -> Tasks)
+
+ex script para montar estória:
+    Nome, descrição (eu,como,quero,quando), regras de negócio (separadamente Front-end / Back-end), telas(links ou imagens a serem desenvolvidas), KPI (valores que estória deseja atingir), Tagueamento (como será tagueada, pode mensurar os KPI), Criterio de aceite (passo aa passo para todos os caminhos felizes).
+
+risks/reward: analise de riscos e recompensas
+    riscos positivos: pode priorizar outros itens no backlog
+
+Transformação Digital - mudança de mindset, como usa e pensa tecnologia
+
+O PO representa como os projetos são pensados e gerados
+
+
+Planejamento de Tarefas: tarefas são frutos de estórias, conjunto de atividades que o time de desemvolvimento deve desempenhar para entregar a estória
+
+Criterio de aceite: definir limites user stories
+
+Stakeholder - interessados no projeto
+
+Ritos - Daily e Restrospectiva
+    Daily - Time box de 15 minutos todo dia
+    Restrospectiva- ocorre uma vez na sprint, sempre na conclusão da sprint
+     o que melhorar?
+
+    
